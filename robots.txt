@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeberagoo.ju5tu5.nl/sitemap.xml
